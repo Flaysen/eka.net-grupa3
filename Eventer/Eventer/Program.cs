@@ -20,7 +20,11 @@ namespace Eventer
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>();
+                    webBuilder.UseStartup<Startup>().ConfigureAppConfiguration((hostingContext, config) =>
+                    {
+                        config.Sources.Clear();
+                        config.AddJsonFile("appsettings.json", optional: true);
+                    });
                 });
     }
 }

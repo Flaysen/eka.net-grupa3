@@ -23,12 +23,12 @@ namespace Eventer.Models
         [Required]
         public string LastName { get; set; }
 
-        [EmailAddress]
-        [DisplayFormat(ConvertEmptyStringToNull = true, NullDisplayText = "[NULL]")]
-        public MailAddress Email { get; set; }
+        //[EmailAddress]
+        //[DisplayFormat(ConvertEmptyStringToNull = true, NullDisplayText = "[NULL]")]
+        public string Email { get; set; }
 
         [Phone]
-        public PhoneAttribute PhoneNumber { get; set; }
+        public string PhoneNumber { get; set; }
 
         [DisplayFormat(ConvertEmptyStringToNull = true, NullDisplayText = "[NULL]")]
         public string CompanyName { get; set; }
