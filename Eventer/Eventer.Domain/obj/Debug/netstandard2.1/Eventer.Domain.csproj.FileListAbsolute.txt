@@ -1,0 +1,8 @@
+D:\Studia\xd\Eventer\Eventer.Domain\bin\Debug\netstandard2.1\Eventer.Domain.deps.json
+D:\Studia\xd\Eventer\Eventer.Domain\bin\Debug\netstandard2.1\Eventer.Domain.dll
+D:\Studia\xd\Eventer\Eventer.Domain\obj\Debug\netstandard2.1\Eventer.Domain.csprojAssemblyReference.cache
+D:\Studia\xd\Eventer\Eventer.Domain\obj\Debug\netstandard2.1\Eventer.Domain.AssemblyInfoInputs.cache
+D:\Studia\xd\Eventer\Eventer.Domain\obj\Debug\netstandard2.1\Eventer.Domain.AssemblyInfo.cs
+D:\Studia\xd\Eventer\Eventer.Domain\bin\Debug\netstandard2.1\Eventer.Domain.pdb
+D:\Studia\xd\Eventer\Eventer.Domain\obj\Debug\netstandard2.1\Eventer.Domain.dll
+D:\Studia\xd\Eventer\Eventer.Domain\obj\Debug\netstandard2.1\Eventer.Domain.pdb

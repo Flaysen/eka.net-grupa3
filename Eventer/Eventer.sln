@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventer", "Eventer\Eventer.csproj", "{9FBF6512-8CF9-4BFD-A0C3-65BF1265C05D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eventer", "Eventer\Eventer.csproj", "{9FBF6512-8CF9-4BFD-A0C3-65BF1265C05D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventer.Domain", "Eventer.Domain\Eventer.Domain.csproj", "{B0B47DB7-8E1F-46B8-96AA-2306A78D4F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventer.AspNetCore", "Eventer.AspNetCore\Eventer.AspNetCore.csproj", "{1B48A38D-7A7E-4D10-AF90-7D23F39CE484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{9FBF6512-8CF9-4BFD-A0C3-65BF1265C05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FBF6512-8CF9-4BFD-A0C3-65BF1265C05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FBF6512-8CF9-4BFD-A0C3-65BF1265C05D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B47DB7-8E1F-46B8-96AA-2306A78D4F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B47DB7-8E1F-46B8-96AA-2306A78D4F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B47DB7-8E1F-46B8-96AA-2306A78D4F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B47DB7-8E1F-46B8-96AA-2306A78D4F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B48A38D-7A7E-4D10-AF90-7D23F39CE484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B48A38D-7A7E-4D10-AF90-7D23F39CE484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B48A38D-7A7E-4D10-AF90-7D23F39CE484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B48A38D-7A7E-4D10-AF90-7D23F39CE484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

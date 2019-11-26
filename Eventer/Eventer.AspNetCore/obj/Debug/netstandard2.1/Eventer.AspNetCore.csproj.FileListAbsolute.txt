@@ -1,0 +1,11 @@
+D:\Studia\xd\Eventer\Eventer.AspNetCore\obj\Debug\netstandard2.1\Eventer.AspNetCore.csprojAssemblyReference.cache
+D:\Studia\xd\Eventer\Eventer.AspNetCore\obj\Debug\netstandard2.1\Eventer.AspNetCore.AssemblyInfoInputs.cache
+D:\Studia\xd\Eventer\Eventer.AspNetCore\obj\Debug\netstandard2.1\Eventer.AspNetCore.AssemblyInfo.cs
+D:\Studia\xd\Eventer\Eventer.AspNetCore\bin\Debug\netstandard2.1\Eventer.AspNetCore.deps.json
+D:\Studia\xd\Eventer\Eventer.AspNetCore\bin\Debug\netstandard2.1\Eventer.AspNetCore.dll
+D:\Studia\xd\Eventer\Eventer.AspNetCore\bin\Debug\netstandard2.1\Eventer.AspNetCore.pdb
+D:\Studia\xd\Eventer\Eventer.AspNetCore\bin\Debug\netstandard2.1\Eventer.Domain.dll
+D:\Studia\xd\Eventer\Eventer.AspNetCore\bin\Debug\netstandard2.1\Eventer.Domain.pdb
+D:\Studia\xd\Eventer\Eventer.AspNetCore\obj\Debug\netstandard2.1\Eventer.AspNetCore.csproj.CopyComplete
+D:\Studia\xd\Eventer\Eventer.AspNetCore\obj\Debug\netstandard2.1\Eventer.AspNetCore.dll
+D:\Studia\xd\Eventer\Eventer.AspNetCore\obj\Debug\netstandard2.1\Eventer.AspNetCore.pdb
