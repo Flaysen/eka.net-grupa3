@@ -8,3 +8,13 @@ D:\Studia\xd\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.pdb
 D:\Studia\xd\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.runtimeconfig.json
 D:\Studia\xd\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.runtimeconfig.dev.json
 D:\Studia\xd\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.csprojAssemblyReference.cache
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.deps.json
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.runtimeconfig.json
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.runtimeconfig.dev.json
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.dll
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.pdb
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.csprojAssemblyReference.cache
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.AssemblyInfoInputs.cache
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.AssemblyInfo.cs
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.dll
+D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.pdb

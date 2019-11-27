@@ -10,8 +10,8 @@ namespace Eventer.AspNetCore.Services
     {
         IEnumerable<GetEventDto> GetEvents();
         GetEventDto GetEvent(int id);
-        void AddEvent(AddEventDto addTaskDto);
-        void UpdateEvent(UpdateEventDto updateTaskDto);
+        void AddEvent(AddEventDto addEventDto);
+        void UpdateEvent(UpdateEventDto updateEventDto);
         void DeleteEvent(int id);
     }
 }

@@ -117,6 +117,21 @@ namespace Eventer.Domain.Migrations
                     b.ToTable("Organizer");
                 });
 
+            modelBuilder.Entity("Eventer.Domain.Models.TestModel", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("Value")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("TestModels");
+                });
+
             modelBuilder.Entity("Eventer.Domain.Models.Event", b =>
                 {
                     b.HasOne("Eventer.Domain.Models.Location", "Location")

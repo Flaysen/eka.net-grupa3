@@ -22,6 +22,6 @@ namespace Eventer.Domain
 
         public DbSet<Event> Users { get; set; }
 
-
+        public DbSet<TestModel> TestModels { get; set; }
     }
 }

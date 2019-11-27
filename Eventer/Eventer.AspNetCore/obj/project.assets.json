@@ -4879,11 +4879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studia\\EKA\\Eventer\\Eventer.AspNetCore\\Eventer.AspNetCore.csproj",
+      "projectUniqueName": "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.AspNetCore\\Eventer.AspNetCore.csproj",
       "projectName": "Eventer.AspNetCore",
-      "projectPath": "D:\\Studia\\EKA\\Eventer\\Eventer.AspNetCore\\Eventer.AspNetCore.csproj",
+      "projectPath": "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.AspNetCore\\Eventer.AspNetCore.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-      "outputPath": "D:\\Studia\\EKA\\Eventer\\Eventer.AspNetCore\\obj\\",
+      "outputPath": "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.AspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4904,8 +4904,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Studia\\EKA\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj": {
-              "projectPath": "D:\\Studia\\EKA\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj"
+            "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj": {
+              "projectPath": "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj"
             }
           }
         }

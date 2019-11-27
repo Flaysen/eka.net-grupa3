@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studia\\EKA\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj": {}
+    "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Studia\\EKA\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj": {
+    "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studia\\EKA\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj",
+        "projectUniqueName": "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj",
         "projectName": "Eventer.Domain",
-        "projectPath": "D:\\Studia\\EKA\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj",
+        "projectPath": "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.Domain\\Eventer.Domain.csproj",
         "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-        "outputPath": "D:\\Studia\\EKA\\Eventer\\Eventer.Domain\\obj\\",
+        "outputPath": "D:\\Studia\\EKA\\eka.net-grupa3\\Eventer\\Eventer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
