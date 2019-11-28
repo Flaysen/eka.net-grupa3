@@ -20,3 +20,14 @@ D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\
 D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.csproj.CopyComplete
 D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.dll
 D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.pdb
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\bin\Debug\netcoreapp3.0\Eventer.AspNetCore.deps.json
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\bin\Debug\netcoreapp3.0\Eventer.AspNetCore.dll
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\bin\Debug\netcoreapp3.0\Eventer.AspNetCore.pdb
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\bin\Debug\netcoreapp3.0\Eventer.Domain.dll
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\bin\Debug\netcoreapp3.0\Eventer.Domain.pdb
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.csprojAssemblyReference.cache
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.AssemblyInfoInputs.cache
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.AssemblyInfo.cs
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.csproj.CopyComplete
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.dll
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.AspNetCore\obj\Debug\netcoreapp3.0\Eventer.AspNetCore.pdb

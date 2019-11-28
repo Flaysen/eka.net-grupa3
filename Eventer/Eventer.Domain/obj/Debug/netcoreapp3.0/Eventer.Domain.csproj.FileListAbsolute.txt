@@ -18,3 +18,13 @@ D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Even
 D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.AssemblyInfo.cs
 D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.dll
 D:\Studia\EKA\eka.net-grupa3\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.pdb
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.deps.json
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.runtimeconfig.json
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.runtimeconfig.dev.json
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.dll
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\bin\Debug\netcoreapp3.0\Eventer.Domain.pdb
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.csprojAssemblyReference.cache
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.AssemblyInfoInputs.cache
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.AssemblyInfo.cs
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.dll
+C:\Users\Lukasz\Desktop\Projekt.Eka\Eventer\Eventer.Domain\obj\Debug\netcoreapp3.0\Eventer.Domain.pdb
